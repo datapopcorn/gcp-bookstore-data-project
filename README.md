@@ -1,1 +1,1 @@
-# My gcp-huggingface-chatbot-data-project
+# My gcp-bookstore-data-project
