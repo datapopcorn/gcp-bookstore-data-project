@@ -1,0 +1,5 @@
+# cloudrun book-info-scrape
+functions-framework==3.*
+google-cloud-storage
+requests
+lxml
